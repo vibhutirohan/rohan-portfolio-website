@@ -19,9 +19,6 @@
 </p>
 
 <!-- Gradient Divider -->
-<p align="center">
-  <img src="https://svgur.com/i/13nQ.svg" width="100%" alt="gradient divider"/>
-</p>
 
 ## ✨ Overview
 
