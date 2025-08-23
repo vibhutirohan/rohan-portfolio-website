@@ -39,7 +39,7 @@ Built with **React + TypeScript + Vite**, styled using **Tailwind CSS**, and spr
 ## 🖥️ Live Demo
 
 > Add your link after deploying on Vercel  
-**🔗 https://your-vercel-domain.vercel.app**
+**🔗 https://rohan-vibhuti-portfolio.vercel.app/**
 
 ---
 
