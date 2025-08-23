@@ -59,7 +59,7 @@ function About() {
             
             <div className="grid grid-cols-2 gap-6 pt-6">
               <div className="text-center">
-                <div className="text-3xl font-bold text-purple-400">15+</div>
+                <div className="text-3xl font-bold text-purple-400">5+</div>
                 <div className="text-gray-400">Projects Completed</div>
               </div>
               <div className="text-center">
