@@ -7,7 +7,7 @@ function Experience() {
       company: "Uplaud Inc",
       location: "Remote, Austin, TX",
       duration: "May 2025 – Aug 2025",
-      description: "Built secure onboarding, dynamic leaderboards, and custom dashboards for a social review platform; improved load performance and integrated user feedback.",
+      description: "Built secure onboarding, dynamic leaderboards, and custom dashboards for a social review platform and improved load performance and integrated user feedback.",
       technologies: ["React.js", "Node.js", "Express.js", "Airtable API", "Vercel", "Git/GitHub"],
       achievements: [
         "Built secure onboarding system for social review platform",

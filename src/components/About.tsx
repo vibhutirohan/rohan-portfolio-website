@@ -28,7 +28,7 @@ function About() {
               <div className="w-80 h-80 mx-auto bg-gradient-to-br from-purple-500 to-pink-500 rounded-full p-1">
                 <div className="w-full h-full bg-slate-800 rounded-full overflow-hidden">
                   <img 
-                    src="/pic.jpeg"
+                    src="/profile.jpeg"
                     alt="Rohan Rajashekhar Vibhuti - Data Science Graduate Student" 
                     className="w-full h-full object-cover"
                     loading="lazy"
@@ -69,7 +69,7 @@ function About() {
             </div>
 
             <div className="flex flex-wrap gap-3 pt-4">
-              {['Data Engineering', 'Full-Stack Development', 'Machine Learning', 'Cloud Computing'].map((skill) => (
+              {['Data Engineering', 'Full-Stack Development', 'Machine Learning','Aritificial Intelligence'].map((skill) => (
                 <motion.span
                   key={skill}
                   whileHover={{ scale: 1.05 }}
