@@ -56,20 +56,9 @@ function About() {
               deliver high-performance, user-centric, data-driven products across web, mobile, and big-data 
               environments.
             </p>
-            
-            <div className="grid grid-cols-2 gap-6 pt-6">
-              <div className="text-center">
-                <div className="text-3xl font-bold text-purple-400">5+</div>
-                <div className="text-gray-400">Projects Completed</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-pink-400">3+</div>
-                <div className="text-gray-400">Industry Internships</div>
-              </div>
-            </div>
-
+          
             <div className="flex flex-wrap gap-3 pt-4">
-              {['Data Engineering', 'Full-Stack Development', 'Machine Learning','Aritificial Intelligence'].map((skill) => (
+              {['Data Engineering', 'Full-Stack Development', 'Machine Learning','AI Enthusiast','LLM Explorer',"Data Analysis"].map((skill) => (
                 <motion.span
                   key={skill}
                   whileHover={{ scale: 1.05 }}

@@ -136,44 +136,7 @@ function Education() {
           </div>
         </motion.div>
 
-        {/* Academic Stats */}
-        <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.6 }}
-          viewport={{ once: true }}
-          className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6"
-        >
-          <div className="text-center">
-            <motion.div
-              whileHover={{ scale: 1.05 }}
-              className="bg-slate-700/30 backdrop-blur-sm border border-purple-500/20 rounded-lg p-6 hover:border-purple-400/50 transition-all duration-300"
-            >
-              <div className="text-3xl font-bold text-purple-400 mb-2">7+</div>
-              <div className="text-gray-300">Years of Education</div>
-            </motion.div>
-          </div>
-          
-          <div className="text-center">
-            <motion.div
-              whileHover={{ scale: 1.05 }}
-              className="bg-slate-700/30 backdrop-blur-sm border border-purple-500/20 rounded-lg p-6 hover:border-purple-400/50 transition-all duration-300"
-            >
-              <div className="text-3xl font-bold text-pink-400 mb-2">2</div>
-              <div className="text-gray-300">Degrees Pursued</div>
-            </motion.div>
-          </div>
-          
-          <div className="text-center">
-            <motion.div
-              whileHover={{ scale: 1.05 }}
-              className="bg-slate-700/30 backdrop-blur-sm border border-purple-500/20 rounded-lg p-6 hover:border-purple-400/50 transition-all duration-300"
-            >
-              <div className="text-3xl font-bold text-cyan-400 mb-2">2026</div>
-              <div className="text-gray-300">Expected Graduation</div>
-            </motion.div>
-          </div>
-        </motion.div>
+        
       </div>
     </section>
   );
