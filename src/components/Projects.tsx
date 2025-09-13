@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import React, { useState } from "react";
 
-/** Try multiple image sources with a graceful fallback (no broken images). */
+
 function SmartImage({
   srcs,
   alt,

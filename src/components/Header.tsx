@@ -13,7 +13,7 @@ function Header() {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1ATGD_dbx-61nSC4QFNWFRS2HoBxBr0VZ/view?usp=sharing",
+      "https://drive.google.com/file/d/1IGcSRXXowGJjNTcbclQV9sX0uoeL98cg/view?usp=sharing",
       "_blank"
     );
   };
