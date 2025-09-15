@@ -212,7 +212,8 @@ export default function Hero() {
     "Data Engineer",
     "Data Analyst",
     "Full Stack Developer",
-    "Cloud Engineer",
+    "Software Developer",
+    "Web Developer",
     "AI/ML Enthusiast",
   ];
   const [roleIndex, setRoleIndex] = useState(0);
