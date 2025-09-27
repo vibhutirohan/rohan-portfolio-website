@@ -16,7 +16,7 @@ function Footer() {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1IGcSRXXowGJjNTcbclQV9sX0uoeL98cg/view?usp=drive_link",
+      "https://drive.google.com/file/d/1TWqc4q1gAQw8e2RRfsGTy6PfYHyqJ7CZ/view?usp=sharing",
       "_blank"
     );
   };
